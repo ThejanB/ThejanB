@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThejanB
+# 👋 Hi, I’m @ThejanB
 - 👀 I’m interested in Data Dtructures and Algorithms.
 - 🌱 I’m currently learning Computer Science and Engineering in University of Moratuwa.
 - 💞️ I’m looking to collaborate on ...

@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thejan Weerasekara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
--🔭 I’m interested in Problem solving and developing algorithms
--👯 I’m looking to collaborate on Web Development, AI and Machine learning
 - 📫 How to reach me **thejanbweerasekara@gmail.com**
-- 😄 Pronouns: He/Him
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

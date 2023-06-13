@@ -3,6 +3,7 @@
 
 - 🔭 I’m interested in Problem solving and developing algorithms
 - 👯 I’m looking to collaborate on Web Development, AI and Machine learning
+- 👯 I’m looking for a software development internship.
 - 📫 How to reach me **thejanbweerasekara@gmail.com**
 - 😄 Pronouns: He/Him
 

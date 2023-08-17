@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on Web Development, AI and Machine learning
 - 👯 I’m looking for a software development internship.
 - 📫 How to reach me **thejanbweerasekara@gmail.com**
-- 😄 Pronouns: He/Him
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
